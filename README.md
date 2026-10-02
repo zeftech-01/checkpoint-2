@@ -1,2 +1,2 @@
-# checkpoint-2
-Fiap primeiro ano 
+Check 2 - Percepton
+RPG De turno com python para aws
